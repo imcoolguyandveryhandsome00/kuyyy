@@ -1,0 +1,124 @@
+.foundation-container {
+  padding: 20px;
+}
+
+.foundation-title {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.dropdown1 {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.frame1 {
+  flex: 1;
+  border: 2px solid #000; /* กรอบของ frame */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.element-item {
+  display: flex; /* ใช้ flexbox เพื่อจัดเรียงรูปภาพและข้อความ */
+  margin: 20px 0;
+  border: 1px solid #ddd; /* กรอบรอบโพสต์ */
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.svc-col-md-4 {
+  flex: 1; /* รูปภาพใช้พื้นที่ 1 ส่วน */
+}
+
+.svc-col-md-8 {
+  flex: 2; /* ข้อความใช้พื้นที่ 2 ส่วน */
+  padding: 10px;
+}
+
+.svc_post_image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.svc_title {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.svc_info {
+  margin: 10px 0;
+  color: #555;
+}
+
+.svg_post_meta {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.svg_post_meta li {
+  margin-bottom: 5px;
+}
+
+.svc_social_share ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 10px;
+}
+
+.svc_social_share li {
+  display: inline;
+}
+
+.svc_social_share a {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.svc_read_more {
+  display: inline-block;
+  padding: 10px 15px;
+  border: 1px solid #333;
+  background-color: #f8f8f8;
+  text-decoration: none;
+  color: #333;
+  border-radius: 4px;
+}
+
+.svc_read_more:hover {
+  background-color: #ddd;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  border-top: 1px solid #ddd;
+  font-size: 0.9em;
+}

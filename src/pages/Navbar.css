@@ -1,0 +1,87 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #003366;
+    padding: 10px 20px;
+    color: #ffffff;
+  }
+  
+  .navbar-title {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .navbar-menu {
+    display: flex;
+    justify-content: center; /* จัดให้อยู่กลาง */
+    align-items: center;
+    flex: 1;
+  }
+  
+  .dropdown2 {
+    position: relative;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 16px;
+  }
+  
+  .dropdown2-button {
+    background-color: #3A5371;
+    color: #ffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+   
+  .dropdown2-content {
+    background-color: #ffffff;
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+  }
+  
+  .dropdown2-content a {
+    color: #003366;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown2-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown2:hover .dropdown2-content {
+    display: block;
+  }
+  
+  .navbar-link {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  
+  .navbar-link:hover {
+    text-decoration: underline;
+  }
+  
+  .profile-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
