@@ -1,0 +1,253 @@
+.back{
+    background: linear-gradient(to bottom, #587EAB, #6E9ED7 ,#B7CCE3);
+    padding: 10px;
+   
+  }
+  
+  .front {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 90%;
+    width: 80%;
+    margin: 10%;
+  }
+  
+  .signup{
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+  }
+  
+  .text-input {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  
+  .name{
+    text-align: center;
+    color: #587EAB;
+  }
+  
+  .all{
+    margin-left: 20px;
+  }
+  
+  .text-input1{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input2{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input3{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input4{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input5{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input6{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input7{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input8{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input9{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input10{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input11{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input12{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 650px;
+    height: 100px;
+  }
+  .text-input13{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input14{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input15{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  .text-input16{
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 200px;
+  }
+  
+  .click{
+    margin-left: 45%;
+    color: #587EAB;
+    margin-top: 50px;
+    
+  }
+  
+  .column{
+    column-count: 2;
+  }
+  .column1{
+    column-count: 2;
+  }
+  .column2{
+    column-count: 2;
+  }
+  .column3{
+    column-count: 2;
+  }
+  .column4{
+    column-count: 2;
+  }
+  .column5{
+    column-count: 2;
+  }
+  .column6{
+    column-count: 2;
+  }
+  .column7{
+    column-count: 2;
+  }
+  
+  
+  .photo{
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    height: 250px;
+    width: 250px;
+    margin-left: 54%;
+    position: absolute;
+    left: 0;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    
+  }
+  
+  .box{
+    text-align: left;
+    margin-left: 35%;
+    color: #587EAB;
+    
+  }
+  
+  .forgot{
+    font-size: 10px;
+    margin-right: 20px;
+  }
+  
+  .donthave{
+    font-size: 10px;
+  }
+  
+  
+  
+  
